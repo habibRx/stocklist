@@ -1,1 +1,156 @@
-/// Holidays list
+{
+  "holidays": [
+
+    {
+      "date": "2025-02-26",
+      "day": "Wednesday",
+      "reason": "Mahashivratri"
+    },
+    {
+      "date": "2025-03-14",
+      "day": "Friday",
+      "reason": "Holi"
+    },
+    {
+      "date": "2025-03-31",
+      "day": "Monday",
+      "reason": "Id-Ul-Fitr (Ramadan Eid)"
+    },
+    {
+      "date": "2025-04-10",
+      "day": "Thursday",
+      "reason": "Shri Mahavir Jayanti"
+    },
+    {
+      "date": "2025-04-14",
+      "day": "Monday",
+      "reason": "Dr. Baba Saheb Ambedkar Jayanti"
+    },
+    {
+      "date": "2025-04-18",
+      "day": "Friday",
+      "reason": "Good Friday"
+    },
+    {
+      "date": "2025-05-01",
+      "day": "Thursday",
+      "reason": "Maharashtra Day"
+    },
+    {
+      "date": "2025-08-15",
+      "day": "Friday",
+      "reason": "Independence Day"
+    },
+    {
+      "date": "2025-08-27",
+      "day": "Wednesday",
+      "reason": "Ganesh Chaturthi"
+    },
+    {
+      "date": "2025-10-02",
+      "day": "Thursday",
+      "reason": "Mahatma Gandhi Jayanti / Dussehra"
+    },
+    {
+      "date": "2025-10-21",
+      "day": "Tuesday",
+      "reason": "Diwali Laxmi Pujan (Muhurat Trading session held)"
+    },
+    {
+      "date": "2025-10-22",
+      "day": "Wednesday",
+      "reason": "Diwali - Balipratipada"
+    },
+    {
+      "date": "2025-11-05",
+      "day": "Wednesday",
+      "reason": "Prakash Gurpurb Sri Guru Nanak Dev"
+    },
+    {
+      "date": "2025-12-25",
+      "day": "Thursday",
+      "reason": "Christmas"
+    },
+
+    {
+      "date": "2026-01-15",
+      "day": "Thursday",
+      "reason": "Municipal Corporation Elections - Maharashtra"
+    },
+    {
+      "date": "2026-01-26",
+      "day": "Monday",
+      "reason": "Republic Day"
+    },
+    {
+      "date": "2026-03-03",
+      "day": "Tuesday",
+      "reason": "Holi"
+    },
+    {
+      "date": "2026-03-26",
+      "day": "Thursday",
+      "reason": "Shri Ram Navami"
+    },
+    {
+      "date": "2026-03-31",
+      "day": "Tuesday",
+      "reason": "Shri Mahavir Jayanti"
+    },
+    {
+      "date": "2026-04-03",
+      "day": "Friday",
+      "reason": "Good Friday"
+    },
+    {
+      "date": "2026-04-14",
+      "day": "Tuesday",
+      "reason": "Dr. Baba Saheb Ambedkar Jayanti"
+    },
+    {
+      "date": "2026-05-01",
+      "day": "Friday",
+      "reason": "Maharashtra Day"
+    },
+    {
+      "date": "2026-05-28",
+      "day": "Thursday",
+      "reason": "Bakri Id (Eid ul-Adha)"
+    },
+    {
+      "date": "2026-06-26",
+      "day": "Friday",
+      "reason": "Muharram"
+    },
+    {
+      "date": "2026-09-14",
+      "day": "Monday",
+      "reason": "Ganesh Chaturthi"
+    },
+    {
+      "date": "2026-10-02",
+      "day": "Friday",
+      "reason": "Mahatma Gandhi Jayanti"
+    },
+    {
+      "date": "2026-10-20",
+      "day": "Tuesday",
+      "reason": "Dussehra"
+    },
+    {
+      "date": "2026-11-10",
+      "day": "Tuesday",
+      "reason": "Diwali - Balipratipada"
+    },
+    {
+      "date": "2026-11-24",
+      "day": "Tuesday",
+      "reason": "Prakash Gurpurb Sri Guru Nanak Dev"
+    },
+    {
+      "date": "2026-12-25",
+      "day": "Friday",
+      "reason": "Christmas"
+    }
+  ]
+}
